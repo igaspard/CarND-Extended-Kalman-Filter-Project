@@ -38,6 +38,7 @@ After the LLDB setup, I instantly find out one of the matrix was declared as wro
 
 ```
 mkdir debug
+cd debug/
 cmake -DCMAKE_BUILD_TYPE=Debug ..
 make
 ```
